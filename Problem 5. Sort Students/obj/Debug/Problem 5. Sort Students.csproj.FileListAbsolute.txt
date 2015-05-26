@@ -1,0 +1,5 @@
+E:\C#\Advanced C# may 2015\HomeworkFunctionalProgramming\Problem 5. Sort Students\bin\Debug\Problem_5.Sort_Students.exe.config
+E:\C#\Advanced C# may 2015\HomeworkFunctionalProgramming\Problem 5. Sort Students\bin\Debug\Problem_5.Sort_Students.exe
+E:\C#\Advanced C# may 2015\HomeworkFunctionalProgramming\Problem 5. Sort Students\bin\Debug\Problem_5.Sort_Students.pdb
+E:\C#\Advanced C# may 2015\HomeworkFunctionalProgramming\Problem 5. Sort Students\obj\Debug\Problem_5.Sort_Students.exe
+E:\C#\Advanced C# may 2015\HomeworkFunctionalProgramming\Problem 5. Sort Students\obj\Debug\Problem_5.Sort_Students.pdb

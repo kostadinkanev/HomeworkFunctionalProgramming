@@ -1,0 +1,5 @@
+E:\C#\Advanced C# may 2015\HomeworkFunctionalProgramming\Problem 7. Filter Students by Phone\bin\Debug\Problem_7.Filter_Students_by_Phone.exe.config
+E:\C#\Advanced C# may 2015\HomeworkFunctionalProgramming\Problem 7. Filter Students by Phone\bin\Debug\Problem_7.Filter_Students_by_Phone.exe
+E:\C#\Advanced C# may 2015\HomeworkFunctionalProgramming\Problem 7. Filter Students by Phone\bin\Debug\Problem_7.Filter_Students_by_Phone.pdb
+E:\C#\Advanced C# may 2015\HomeworkFunctionalProgramming\Problem 7. Filter Students by Phone\obj\Debug\Problem_7.Filter_Students_by_Phone.exe
+E:\C#\Advanced C# may 2015\HomeworkFunctionalProgramming\Problem 7. Filter Students by Phone\obj\Debug\Problem_7.Filter_Students_by_Phone.pdb

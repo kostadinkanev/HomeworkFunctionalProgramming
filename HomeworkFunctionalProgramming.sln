@@ -1,0 +1,76 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 1. Class Student", "Problem 1. Class Student\Problem 1. Class Student.csproj", "{32A5F41E-8959-45BB-A4FA-48AF24034643}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 2. Students by Group", "Problem 2. Students by Group\Problem 2. Students by Group.csproj", "{FB16B4D2-1DEC-4719-B12F-DFAF896EDC7A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 3. Students by First and Last Name", "Problem 3. Students by First and Last Name\Problem 3. Students by First and Last Name.csproj", "{E64666EE-43F2-41E2-BA84-F3C758C07A9A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 4. Students by Age", "Problem 4. Students by Age\Problem 4. Students by Age.csproj", "{116202E7-F35E-459F-AC5C-F72CCE3D89DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 5. Sort Students", "Problem 5. Sort Students\Problem 5. Sort Students.csproj", "{1B43F422-4D34-4585-95DC-1C644F3F612E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 6. Filter Students by Email Domain", "Problem 6. Filter Students by Email Domain\Problem 6. Filter Students by Email Domain.csproj", "{A9AECD7D-22E0-450F-A021-76751C37FE79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 7. Filter Students by Phone", "Problem 7. Filter Students by Phone\Problem 7. Filter Students by Phone.csproj", "{8D99E05B-C3EF-4F85-BDFF-FB5B0EFDA755}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 8. Excellent Students", "Problem 8. Excellent Students\Problem 8. Excellent Students.csproj", "{BAB40BA7-D434-4BF0-B050-523E58CCFB58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 9. Weak Students", "Problem 9. Weak Students\Problem 9. Weak Students.csproj", "{80ABE009-DDF2-485D-BFBE-9759B40F07B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 10. Students Enrolled in 2014", "Problem 10. Students Enrolled in 2014\Problem 10. Students Enrolled in 2014.csproj", "{C9BB292C-8C29-4AA6-BC22-42DE162E0BEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32A5F41E-8959-45BB-A4FA-48AF24034643}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32A5F41E-8959-45BB-A4FA-48AF24034643}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32A5F41E-8959-45BB-A4FA-48AF24034643}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32A5F41E-8959-45BB-A4FA-48AF24034643}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB16B4D2-1DEC-4719-B12F-DFAF896EDC7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB16B4D2-1DEC-4719-B12F-DFAF896EDC7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB16B4D2-1DEC-4719-B12F-DFAF896EDC7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB16B4D2-1DEC-4719-B12F-DFAF896EDC7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E64666EE-43F2-41E2-BA84-F3C758C07A9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E64666EE-43F2-41E2-BA84-F3C758C07A9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E64666EE-43F2-41E2-BA84-F3C758C07A9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E64666EE-43F2-41E2-BA84-F3C758C07A9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{116202E7-F35E-459F-AC5C-F72CCE3D89DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{116202E7-F35E-459F-AC5C-F72CCE3D89DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{116202E7-F35E-459F-AC5C-F72CCE3D89DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{116202E7-F35E-459F-AC5C-F72CCE3D89DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B43F422-4D34-4585-95DC-1C644F3F612E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B43F422-4D34-4585-95DC-1C644F3F612E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B43F422-4D34-4585-95DC-1C644F3F612E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B43F422-4D34-4585-95DC-1C644F3F612E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9AECD7D-22E0-450F-A021-76751C37FE79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9AECD7D-22E0-450F-A021-76751C37FE79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9AECD7D-22E0-450F-A021-76751C37FE79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9AECD7D-22E0-450F-A021-76751C37FE79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D99E05B-C3EF-4F85-BDFF-FB5B0EFDA755}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D99E05B-C3EF-4F85-BDFF-FB5B0EFDA755}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D99E05B-C3EF-4F85-BDFF-FB5B0EFDA755}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D99E05B-C3EF-4F85-BDFF-FB5B0EFDA755}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAB40BA7-D434-4BF0-B050-523E58CCFB58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAB40BA7-D434-4BF0-B050-523E58CCFB58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAB40BA7-D434-4BF0-B050-523E58CCFB58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAB40BA7-D434-4BF0-B050-523E58CCFB58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80ABE009-DDF2-485D-BFBE-9759B40F07B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80ABE009-DDF2-485D-BFBE-9759B40F07B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80ABE009-DDF2-485D-BFBE-9759B40F07B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80ABE009-DDF2-485D-BFBE-9759B40F07B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9BB292C-8C29-4AA6-BC22-42DE162E0BEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9BB292C-8C29-4AA6-BC22-42DE162E0BEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9BB292C-8C29-4AA6-BC22-42DE162E0BEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9BB292C-8C29-4AA6-BC22-42DE162E0BEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

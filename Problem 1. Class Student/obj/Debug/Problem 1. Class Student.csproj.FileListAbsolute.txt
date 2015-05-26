@@ -1,0 +1,6 @@
+E:\C#\Advanced C# may 2015\HomeworkFunctionalProgramming\Problem 1. Class Student\bin\Debug\Problem_1.Class_Student.exe.config
+E:\C#\Advanced C# may 2015\HomeworkFunctionalProgramming\Problem 1. Class Student\bin\Debug\Problem_1.Class_Student.exe
+E:\C#\Advanced C# may 2015\HomeworkFunctionalProgramming\Problem 1. Class Student\bin\Debug\Problem_1.Class_Student.pdb
+E:\C#\Advanced C# may 2015\HomeworkFunctionalProgramming\Problem 1. Class Student\obj\Debug\Problem 1. Class Student.csprojResolveAssemblyReference.cache
+E:\C#\Advanced C# may 2015\HomeworkFunctionalProgramming\Problem 1. Class Student\obj\Debug\Problem_1.Class_Student.exe
+E:\C#\Advanced C# may 2015\HomeworkFunctionalProgramming\Problem 1. Class Student\obj\Debug\Problem_1.Class_Student.pdb

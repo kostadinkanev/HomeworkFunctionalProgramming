@@ -1,0 +1,7 @@
+E:\C#\Advanced C# may 2015\HomeworkFunctionalProgramming\Problem 9. Weak Students\bin\Debug\Problem_9.Weak_Students.exe.config
+E:\C#\Advanced C# may 2015\HomeworkFunctionalProgramming\Problem 9. Weak Students\bin\Debug\Problem_9.Weak_Students.exe
+E:\C#\Advanced C# may 2015\HomeworkFunctionalProgramming\Problem 9. Weak Students\bin\Debug\Problem_9.Weak_Students.pdb
+E:\C#\Advanced C# may 2015\HomeworkFunctionalProgramming\Problem 9. Weak Students\bin\Debug\Problem_1.Class_Student.exe
+E:\C#\Advanced C# may 2015\HomeworkFunctionalProgramming\Problem 9. Weak Students\bin\Debug\Problem_1.Class_Student.pdb
+E:\C#\Advanced C# may 2015\HomeworkFunctionalProgramming\Problem 9. Weak Students\obj\Debug\Problem_9.Weak_Students.exe
+E:\C#\Advanced C# may 2015\HomeworkFunctionalProgramming\Problem 9. Weak Students\obj\Debug\Problem_9.Weak_Students.pdb

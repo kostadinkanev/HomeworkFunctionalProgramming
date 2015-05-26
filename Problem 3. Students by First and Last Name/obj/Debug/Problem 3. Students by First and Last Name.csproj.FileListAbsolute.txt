@@ -1,0 +1,5 @@
+E:\C#\Advanced C# may 2015\HomeworkFunctionalProgramming\Problem 3. Students by First and Last Name\bin\Debug\Problem_3.Students_by_First_and_Last_Name.exe.config
+E:\C#\Advanced C# may 2015\HomeworkFunctionalProgramming\Problem 3. Students by First and Last Name\bin\Debug\Problem_3.Students_by_First_and_Last_Name.exe
+E:\C#\Advanced C# may 2015\HomeworkFunctionalProgramming\Problem 3. Students by First and Last Name\bin\Debug\Problem_3.Students_by_First_and_Last_Name.pdb
+E:\C#\Advanced C# may 2015\HomeworkFunctionalProgramming\Problem 3. Students by First and Last Name\obj\Debug\Problem_3.Students_by_First_and_Last_Name.exe
+E:\C#\Advanced C# may 2015\HomeworkFunctionalProgramming\Problem 3. Students by First and Last Name\obj\Debug\Problem_3.Students_by_First_and_Last_Name.pdb
